@@ -1,0 +1,5 @@
+/home/mmcleod/COMP0210/week6_exercises/Timing/build/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week6_exercises/Timing/build/CMakeFiles/rebuild_cache.dir
+/home/mmcleod/COMP0210/week6_exercises/Timing/build/source/CMakeFiles/timing.dir
+/home/mmcleod/COMP0210/week6_exercises/Timing/build/source/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week6_exercises/Timing/build/source/CMakeFiles/rebuild_cache.dir
